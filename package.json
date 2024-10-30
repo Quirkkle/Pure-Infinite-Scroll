@@ -1,0 +1,31 @@
+{
+    "name": "pure-infinite-scroll",
+    "version": "1.0.0",
+    "description": "Effortless Infinite Scrolling for Pure JS",
+    "main": "index.ts",
+    "type": "module",
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "test": "vitest",
+        "package": "npm pack"
+    },
+    "keywords": [],
+    "author": "Quirkkle <quirkkle@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Quirkkle/Pure-Infinite-Scroll.git"
+    },
+    "dependencies": {
+        "events": "^3.3.0"
+    },
+    "devDependencies": {
+        "@types/events": "^3.0.3",
+        "@types/node": "^22.8.2",
+        "jsdom": "^25.0.1",
+        "typescript": "^5.6.3",
+        "vite": "^5.4.10",
+        "vitest": "^2.1.4"
+    }
+}
