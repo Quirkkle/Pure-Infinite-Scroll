@@ -15,14 +15,18 @@ npm i pure-infinite-scroll
 
 Or download the file manually:
 
-```plaintext
-./dist/pure-infinite-scroll.umd.cjs
-```
+- [pure-infinite-scroll.umd.cjs](https://unpkg.com/pure-infinite-scroll@1/dist/pure-infinite-scroll.umd.cjs)
 
 To include it directly in HTML:
 
 ```html
 <script src="pure-infinite-scroll.umd.cjs"></script>
+```
+
+Or use CDN:
+
+```html
+<script src="https://unpkg.com/pure-infinite-scroll@1/dist/pure-infinite-scroll.umd.cjs"></script>
 ```
 
 ---
